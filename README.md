@@ -1,4 +1,4 @@
-![изображение](https://github.com/jt1402/Password-generator/assets/107617773/56e55cfb-ee2f-42e8-a648-4b6addc9ff8e)# Password Generator
+
 
 This is a simple password generator program implemented in Python.
 
@@ -12,6 +12,9 @@ This program generates strong and secure passwords of variable lengths based on 
 - Options to include or exclude uppercase letters, lowercase letters, numbers, and special characters
 - Generates passwords using a secure random generator
 - Easy-to-use command-line interface
+
+
+![изображение](https://github.com/jt1402/Password-generator/assets/107617773/56e55cfb-ee2f-42e8-a648-4b6addc9ff8e)# Password Generator
 
 ## Waterfall Model
  
