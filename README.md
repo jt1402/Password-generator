@@ -1,4 +1,4 @@
-# Password Generator
+![изображение](https://github.com/jt1402/Password-generator/assets/107617773/56e55cfb-ee2f-42e8-a648-4b6addc9ff8e)# Password Generator
 
 This is a simple password generator program implemented in Python.
 
@@ -51,14 +51,14 @@ This program generates strong and secure passwords of variable lengths based on 
 
 6. **Maintenance Phase**:
 
-Bug Fixes: Address any issues or bugs reported by users post-deployment.
-Updates: Incorporate updates or enhancements based on user feedback or changing requirements.
-Support: Provide ongoing support to users and address any queries or concerns they may have.
+**Bug Fixes**: Address any issues or bugs reported by users post-deployment.
+**Updates**: Incorporate updates or enhancements based on user feedback or changing requirements.
+**Support**: Provide ongoing support to users and address any queries or concerns they may have.
 
 
 ## Installation
 
-1. Clone the repository:
+**1. Clone the repository**:
 
 ```bash
 git https://github.com/jt1402/Password-generator.git 
