@@ -14,7 +14,8 @@ This program generates strong and secure passwords of variable lengths based on 
 - Easy-to-use command-line interface
 
 ## Waterfall Model
-![изображение](https://github.com/jt1402/Password-generator/assets/107617773/56e55cfb-ee2f-42e8-a648-4b6addc9ff8e)# Password Generator
+![изображение](https://github.com/jt1402/Password-generator/assets/107617773/199277fe-8689-4cf6-b17b-c13f782b0c8e)
+
 
 
 ## Installation
